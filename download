@@ -1,0 +1,6 @@
+# Originales pesados: las versiones web están en assets/ (ver tools/optimizar-imagenes.sh)
+Archivos WEB PF/
+Cambios PF web.pdf
+.DS_Store
+__MACOSX/
+.claude/
